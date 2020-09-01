@@ -1,0 +1,23 @@
+title: Garden Bird Classifier
+description: Classify garden bird images using deep learning
+about:
+
+
+  This is a Garden Bird Image Classifier using Deep Learning built on top of Pytorch and Fastai.
+
+
+  The project was build by [donbale](https://donbale.github.io)
+
+code: https://github.com/donbale/fastai-deep-learning-classifier
+
+sampleImages:
+  - name: robin
+    url: https://upload.wikimedia.org/wikipedia/commons/4/41/British_Robin_in_Tree.jpg
+  - name: house sparrow
+    url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Passer_domesticus_male_%2815%29.jpg
+  - name: blackbird
+    url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Common_Blackbird.jpg
+  - name: goldfinch
+    url: https://upload.wikimedia.org/wikipedia/commons/7/7c/Carduelis_carduelis_close_up.jpg
+  - name: blue tit
+    url: https://upload.wikimedia.org/wikipedia/commons/8/86/Eurasian_blue_tit_Lancashire.jpg 
